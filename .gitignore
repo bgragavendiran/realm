@@ -40,4 +40,3 @@ amplifytools.xcconfig
 
 # Project exclude paths
 /amplify/
-/gradle/
