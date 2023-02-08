@@ -7,6 +7,8 @@
 /.idea/workspace.xml
 /.idea/navEditor.xml
 /.idea/assetWizardSettings.xml
+/amplify
+.idea
 .DS_Store
 /build
 /captures
@@ -38,5 +40,4 @@ amplifytools.xcconfig
 
 # Project exclude paths
 /amplify/
-/app/
 /gradle/
